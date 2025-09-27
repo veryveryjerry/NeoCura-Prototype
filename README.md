@@ -33,6 +33,13 @@ A simple health chatbot built with Streamlit and Hugging Face's Llama3-Med42-70B
      ```
 
 4. **Run the application:**
+   
+   **Option A: Using the launcher script (Recommended)**
+   ```bash
+   python run.py
+   ```
+   
+   **Option B: Direct Streamlit command**
    ```bash
    streamlit run app.py
    ```
